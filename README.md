@@ -8,7 +8,7 @@ Official code repository supporting the analytical workflows and statistical mod
 
 ---
 
-## Abstract & Key Findings
+## Key Findings
 
 While international conservation policies prioritize clear-cut deforestation, tropical forests are increasingly degraded by fires, edge effects, timber extraction, and extreme droughts. 
 
